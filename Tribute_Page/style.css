@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: #eee
+}
+h1{
+    background-color: rgb(111, 194, 148);
+}
+/* #title{
+    text-align: center;
+}
+#img{
+    display: block;
+    margin: auto;
+}
+ #main div div{
+    text-align: center;
+}  */
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+  li {
+    margin: 16px 0;
+  }
